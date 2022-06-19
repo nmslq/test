@@ -17,6 +17,7 @@ class justTest {
 		'mother',
 		'died!'
 	];
+        public var test = false;
 }
 
 
